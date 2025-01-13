@@ -1,0 +1,14 @@
+{
+  "name": "video-distribution-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Video Distribution App",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "serve public",
+    "build": "echo 'No build step for plain JS'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
